@@ -44,7 +44,7 @@ Se deberan tener instaladas las dependencias correspondientes (nodejs y npm)
 
 ## Authors
 
-* **Anahí Peinado VIllalobos** - 
+* **Anahí Peinado VIllalobos** 353262
 
 ## Acknowledgments
 I.S.C Luis Antonio Ramírez Martínez 
