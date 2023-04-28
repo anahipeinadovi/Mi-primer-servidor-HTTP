@@ -23,16 +23,18 @@ Se deberan tener instaladas las dependencias correspondientes (nodejs y npm)
 
 ### Installing
 
-1. Asegurarse de tener instaladas las dependencias correspondientes: https://midu.devcomo-instalar-node-en-mac-y-windows/
+1. Asegurarse de tener instaladas las dependencias correspondientes
 
 2. Clonar este repositorio en tu computadora 
 
-3.Posicionarse en tu terminal en el directorio donde se encuentran los archivos js y txt
+3.Posicionarse en tu terminal en el directorio donde se encuentran los archivos 
 
 4. Ejecutar con el siguiente comando el archivo app.js:
+    
     node app.js
 
-5. Abrir un navegador y en la barra de direcciones escribir lo siguiente
+5. Abrir un navegador y en la barra de direcciones escribir lo siguiente:
+    
     localhost:4444
 
 
